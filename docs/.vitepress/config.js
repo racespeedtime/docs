@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  base: "/docs/",
   lang: "zh-CN",
   titleTemplate: ":title - RST",
   description: "源于幻想,活于影中.",

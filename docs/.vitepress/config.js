@@ -53,16 +53,16 @@ export default defineConfig({
             text: "目录结构",
           },
           {
-            link: "/server/run",
-            text: "运行",
-          },
-          {
-            link: "/server/deploy",
-            text: "部署",
+            link: "/server/dev",
+            text: "运维",
           },
           {
             link: "/server/credits",
             text: "致谢",
+          },
+          {
+            link: "/server/changelog",
+            text: "更新日志",
           },
         ],
         text: "游戏服",

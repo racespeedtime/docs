@@ -109,6 +109,14 @@ const rstCoreMembers = [
 
 const rstMembers = [
   {
+    avatar: "https://q4.qlogo.cn/g?b=qq&nk=1105670977&s=140",
+    name: "ED_Death",
+  },
+  {
+    avatar: "https://q4.qlogo.cn/g?b=qq&nk=809339467&s=140",
+    name: "Yi1_Mr(Myron)",
+  },
+  {
     avatar: "https://q4.qlogo.cn/g?b=qq&nk=2540755159&s=140",
     name: "747800",
   },

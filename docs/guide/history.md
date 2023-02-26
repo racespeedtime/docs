@@ -60,7 +60,7 @@ Air 喜欢在 sa 里漂移、喜欢在 minecraft 里尝试各种模组和新鲜�
 <iframe src="//player.bilibili.com/player.html?aid=98863243&bvid=BV1A741127Zb&cid=168761198&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"
 />
 
-2015 年 Air 由于个人因素，最后离开了 Fire 车队和 RST 团队，两人逐渐没了联系，但 Hygen 永远感谢 Air 给 samp 圈和各种视频剪辑技术作出的贡献和互联网冲浪所带来的经历。
+2015 年 Air 由于个人原因，最后离开了陪伴多年的 Fire 车队和 RST 团队，两人渐渐没了联系，但 Hygen 永远感谢 Air 给 samp 圈和各种视频剪辑技术作出的贡献和互联网冲浪所带来的经历。
 
 2013 年，Hygen 注册了 B 站，但不活跃，2015 年 Hygen 开始在 B 站投稿，常驻活跃在 B 站，喜欢看鬼畜区，游戏区的内容。
 

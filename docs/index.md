@@ -6,7 +6,7 @@ hero:
   text: 一个多年的小众圈团队
   tagline: 源于幻想,活于影中...
   image:
-    src: /assets/logo2018.png
+    src: /logo2018.png
     alt: logo2018
   actions:
     - theme: brand

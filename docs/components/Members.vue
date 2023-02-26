@@ -39,6 +39,19 @@ import {
 import Member from "./Member.vue";
 
 const fireMembers = [
+  { name: "[F_W]G13" },
+  { name: "刺骨神" },
+  { name: "武神" },
+  { name: "sun" },
+  { name: "231" },
+  { name: "秘密" },
+  { name: "迷茫" },
+  { name: "小二" },
+  { name: "Freeze" },
+  { name: "独眼骑士" },
+  { name: "Boyi" },
+  { name: "竹熊" },
+  { name: "玲珑(玲隆)" },
   { name: "ED_Ven8" },
   { name: "X_Andy" },
   { name: "KB" },
@@ -47,8 +60,13 @@ const fireMembers = [
   { name: "ED_DreamF" },
   { name: "ED_Spider" },
   { name: "ED_Aaron" },
+  { name: "ED_Frank" },
+  { name: "ED_Shuig" },
   { name: "FlameS" },
   { name: "XuWei" },
+  { name: "morphin" },
+  { name: "wide" },
+  { name: "XYR" },
   {
     avatar: "https://q4.qlogo.cn/g?b=qq&nk=727035705&s=140",
     name: "JoshenKM",

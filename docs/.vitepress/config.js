@@ -13,7 +13,7 @@ export default defineConfig({
       prev: "上一篇",
     },
     editLink: {
-      pattern: "https://github.com/racespeedtime/blog/edit/main/docs/:path",
+      pattern: "https://github.com/racespeedtime/docs/edit/main/docs/:path",
       text: "编辑此页",
     },
     footer: {

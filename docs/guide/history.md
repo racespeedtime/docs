@@ -48,15 +48,25 @@ Denver、JoshenKM、Air(ED_Spider, Oxygen, 小魂)等成员在团队发展史上
 
 2012 年，Hygen 发现很多 up 主都有视频片头，于是抱着尝试的心态，网上搜索着 ae 模板分享给大家做片头。同年 9 月 2 日，Hygen 以邮箱的形式，用初入互联网冲浪的技术和那些年的低配电脑，缓慢跑着 ae 渲染，给梦喵做了一个 240p 还是 360p 的感人画质片头。
 
+![mail](/intro-mail-myron.png)
+![intro](/intro-myron.png)
+
 通过不断上传游戏视频，分享模组和车辆数据又认识到很多朋友。Hygen 在爱拍工会创建了落叶家族，结交了很多同一个小众游戏圈的朋友。
+
+如此回忆来，Hygen、Kiven、JoshenKM 还有一段时间在一起玩过 Minecraft 联机。
 
 Air 喜欢在 sa 里漂移、喜欢在 minecraft 里尝试各种模组和新鲜感，2014 年 Air 加入了 VREC 幻域（国内游戏剪辑影视团队），对于团队内部带动了国内 samp 圈的特效剪辑风。
 
-2015 年 Air 由于个人因素，最后离开了 Fire 车队和 RST 车队，两人也逐渐没了联系，但 Hygen 永远感谢 Air 给 samp 圈和各种视频剪辑技术作出的贡献和互联网冲浪所带来的经历。
+<iframe src="//player.bilibili.com/player.html?aid=98863243&bvid=BV1A741127Zb&cid=168761198&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"
+/>
+
+2015 年 Air 由于个人因素，最后离开了 Fire 车队和 RST 团队，两人逐渐没了联系，但 Hygen 永远感谢 Air 给 samp 圈和各种视频剪辑技术作出的贡献和互联网冲浪所带来的经历。
 
 2013 年，Hygen 注册了 B 站，但不活跃，2015 年 Hygen 开始在 B 站投稿，常驻活跃在 B 站，喜欢看鬼畜区，游戏区的内容。
 
 2016 年，Hygen 率先提出创建统一的 bilibili 官方团队账号，2016 年 6 月 9 日率先由 Byron（豆腐）的视频打响新平台的第一枪。
+
+<iframe src="//player.bilibili.com/player.html?aid=4918478&bvid=BV15s411q7iL&cid=7987105&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px" />
 
 2018 年优酷平台出现了用户名为爱拍原创 2018 的账号，将爱拍网站的大量视频转移到优酷平台，但还有很多视频未被转移。
 
@@ -64,7 +74,7 @@ Air 喜欢在 sa 里漂移、喜欢在 minecraft 里尝试各种模组和新鲜�
 
 一段时间后，爱拍原创清空了所有用户的视频数据库，转型为自研剪辑软件（爱拍），前身为拍大师（爱拍宝宝），至此一个时代结束了。
 
-如此回忆来，Hygen、Kiven、JoshenKM 有一段时间在一起玩过 Minecraft 的服务器。
+![爱拍最后的消息](https://pic4.zhimg.com/v2-9670ab6a311ae520dca5c0c8bc1dc533_b.jpg)
 
 ## 游戏服
 
@@ -76,11 +86,11 @@ Air 喜欢在 sa 里漂移、喜欢在 minecraft 里尝试各种模组和新鲜�
 
 ## 一些很有回忆的截图
 
-> 欢迎各位补充
+> 暂时在群相册, 欢迎各位抽一些比较有意义的图片过来
 
 ## 后记
 
-我们所处的小众圈子一直是不太和平的，服主之间的服务器 DDOS 攻击，游戏之间的引战，作弊玩家的横行，水深火热的贴吧环境，公开挑衅等各大事件，每一步都像走在刀尖上跳舞，但不管怎么说，都是过往和回忆，就像现如今的世界一样，总是相对和平，世界总有地方发生战争，但绝大多数正义的人民都热爱和平。
+我们所处的小众圈子一直不太和平，服主之间的 DDOS 攻击，游戏环境之间的引战，以作弊引以为豪的玩家横行，水深火热的贴吧骂街环境，公开挑衅等各大事件，每一步都像走在刀尖上跳舞，但不管怎样，都是过往和回忆，就像现如今的世界，只是相对和平，总有地方发生战争，但绝大多数正义的人民都热爱、拥护和平。
 
 我们希望对于国内而言的小众圈子，能够和平相处，为后代留下一些前代的青春，记忆，以及有益的技术分享。
 

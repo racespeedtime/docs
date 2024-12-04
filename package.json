@@ -2,28 +2,21 @@
   "name": "rst-docs",
   "version": "1.0.0",
   "private": true,
-  "license": "ISC",
-  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
   "scripts": {
     "build": "vitepress build docs",
     "dev": "vitepress dev docs",
     "preview": "vitepress preview docs"
   },
-  "devDependencies": {
-    "unocss": "^0.50.1",
-    "unplugin-auto-import": "^0.15.0",
-    "unplugin-vue-components": "^0.24.0",
-    "vitepress": "1.0.0-alpha.47",
-    "vue": "^3.2.47"
-  },
-  "pnpm": {
-    "peerDependencyRules": {
-      "ignoreMissing": [
-        "@algolia/client-search"
-      ]
-    }
-  },
   "dependencies": {
-    "@varlet/ui": "^2.8.3"
+    "@varlet/ui": "^3.7.1"
+  },
+  "devDependencies": {
+    "unocss": "^0.65.1",
+    "unplugin-auto-import": "^0.18.6",
+    "unplugin-vue-components": "^0.27.5",
+    "vitepress": "1.5.0",
+    "vue": "^3.5.13"
   }
 }

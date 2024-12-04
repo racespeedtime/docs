@@ -1,4 +1,4 @@
-import "uno.css";
+import "virtual:uno.css";
 import DefaultTheme from "vitepress/theme";
 import NotFound from "../../components/NotFound.vue";
 

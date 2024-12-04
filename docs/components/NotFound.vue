@@ -16,7 +16,7 @@
       marginheight="0"
       width="330"
       height="86"
-      src="//music.163.com/outchain/player?type=2&id=1974443814&auto=1&height=66"
+      src="//music.163.com/outchain/player?type=2&id=2648874978&auto=1&height=66"
     />
     <div class="flex gap-4">
       <var-button type="info" @click="changeRandIdx">🥳 换一句</var-button>
